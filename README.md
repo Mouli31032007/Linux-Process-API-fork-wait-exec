@@ -46,7 +46,7 @@ int main(void)
 	return 0;
 }
 ```
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/8665bbd0-9722-495b-8409-f1f6fc70c02a)
 
@@ -81,7 +81,7 @@ sleep(100);
 exit(0);} 
 }
 ```
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/9dad31b2-c734-4c06-a2c8-1a2b79350b6b)
 
@@ -110,7 +110,7 @@ printf("Running ps with execlp. Now with path specified\n");
                 puts("child did not exit successfully\n");
         printf("Done.\n");
 ```
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/35443884-ca8d-4146-acee-a9f0a26647cc)
 
